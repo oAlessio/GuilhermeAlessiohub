@@ -37,9 +37,9 @@ function github(){
 }
 
 function ulife(){
-    window.location.href = "https://ulife.com"
+    window.location.href = "https://ulife.com.br"
 }
 
 function multicanais(){
-    window.location.href = "htpps://multicanais.com"
+    window.location.href = "https://multicanais.com"
 }

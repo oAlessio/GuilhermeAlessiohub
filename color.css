@@ -43,6 +43,7 @@ li{
     background-size: 50px;
     background-repeat: no-repeat;
     background-position: center;
+    transition: 0.5s;
 }
 
 #youtube{
