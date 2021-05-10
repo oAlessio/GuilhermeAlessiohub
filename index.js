@@ -1,6 +1,6 @@
 const titulo = document.getElementById('titulo')
 
-function definirtitulo() {
+function definirTitulo() {
     const hora = new Date().getHours()
     if (hora < 12 && hora > 5) {
         titulo.innerHTML = "Bom dia!"
@@ -13,7 +13,7 @@ function definirtitulo() {
     }
 }
 
-definirtitulo()
+definirTitulo()
 
 function definirTexto() {
     const horasP = document.getElementById('horas')
@@ -44,6 +44,6 @@ function ulife(){
     window.location.href = "https://ulife.com.br"
 }
 
-function multicanais(){
+function multiCanais(){
     window.location.href = "https://multicanais.com"
 }
