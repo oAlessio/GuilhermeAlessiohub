@@ -36,6 +36,10 @@ function github(){
     window.location.href = "https://github.com"
 }
 
+function twitch(){
+    window.location.href = "https://twitch.tv"
+}
+
 function ulife(){
     window.location.href = "https://ulife.com.br"
 }
