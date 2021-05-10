@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@media (max-width: 1366px) {
+    h1 {
+        font-size: 70px;
+        margin-top: 110px;
+    }
+    li {
+        height: 80px;
+        width: 80px;
+    }
+}
